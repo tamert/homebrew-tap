@@ -1,6 +1,6 @@
 cask "copysync" do
-  version "2.0.6"
-  sha256 "068bcfb6d7426ee64e60dae049c2b7a5e9cec961b18189ae07d96f61c950a9d8"
+  version "2.0.7"
+  sha256 "83bd68f946abf5588d4429ef9a57c4d3c357f71fc383936789411138d5dc7d33"
 
   url "https://copysync.tr/static/CopySync.zip"
   name "CopySync"
